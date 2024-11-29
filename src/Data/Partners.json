@@ -1,0 +1,16 @@
+{
+    "section": {
+        "title": "Partners",
+        "heading": "Entrusted Us With <br> Website Promotion"
+    },
+    "logos": [
+        {"src": "logo-1.webp", "alt": "Logo 1"},
+        {"src": "logo-2.webp", "alt": "Logo 2"},
+        {"src": "logo-3.webp", "alt": "Logo 3"},
+        {"src": "logo-4.webp", "alt": "Logo 4"},
+        {"src": "logo-5.webp", "alt": "Logo 5"},
+        {"src": "logo-6.webp", "alt": "Logo 6"},
+        {"src": "logo-7.webp", "alt": "Logo 7"},
+        {"src": "logo-8.webp", "alt": "Logo 8"}
+    ]
+}

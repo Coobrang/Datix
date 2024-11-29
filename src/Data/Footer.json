@@ -1,0 +1,20 @@
+{
+    "links": [
+        {"title": "About", "href": "#"},
+        {"title": "Solutions", "href": "#"},
+        {"title": "Pricing", "href": "#"},
+        {"title": "Blog", "href": "#"},
+        {"title": "Contatc", "href": "#"}
+    ],
+    "contactInfo": {
+        "phone": "+1 234 45678",
+        "email": "info@example.com"
+    },
+    "socialMedia": [
+        {"iconClass": "fa-brands fa-instagram", "href": "#"},
+        {"iconClass": "fa-brands fa-facebook-f", "href": "#"},
+        {"iconClass": "fa-brands fa-x-twitter", "href": "#"},
+        {"iconClass": "fa-brands fa-youtube", "href": "#"}
+    ],
+    "copyright": "Coobrang © 2024. All Rights Reserved."
+}

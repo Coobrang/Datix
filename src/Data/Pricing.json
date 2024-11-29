@@ -1,0 +1,44 @@
+{
+    "section": {
+        "title": "Pricing plan",
+        "heading": "The Best Solutions <br> for Our Clients"
+    },
+    "plans": [
+        {
+            "name": "Basic Plan",
+            "price": "$29",
+            "features": [
+                "Payment for selected key queries",
+                "Nested requests are not charged",
+                "Limited request pool",
+                "Web site analytics"
+            ],
+            "buttonText": "Purchase",
+            "buttonLink": "#"
+        },
+        {
+            "name": "Standard Plan",
+            "price": "$59",
+            "features": [
+                "Payment for selected key queries",
+                "Nested requests are not charged",
+                "Limited request pool",
+                "Web site analytics"
+            ],
+            "buttonText": "Purchase",
+            "buttonLink": "#"
+        },
+        {
+            "name": "Premium Plan",
+            "price": "$89",
+            "features": [
+                "Payment for selected key queries",
+                "Nested requests are not charged",
+                "Limited request pool",
+                "Web site analytics"
+            ],
+            "buttonText": "Purchase",
+            "buttonLink": "#"
+        }
+    ]
+}

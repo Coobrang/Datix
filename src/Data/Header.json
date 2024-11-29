@@ -1,0 +1,26 @@
+{
+    "menus": [
+        {"title": "About", "link": "#"},
+        {"title": "Solutions", "link": "#"},
+        {"title": "Pricing", "link": "#"},
+        {"title": "Blog", "link": "#"},
+        {"title": "Contact", "link": "#"}
+    ],
+    "header": {
+        "title": "Guiding Your Business to Achieve Online Success",
+        "highlight": "Business"
+    },
+    "description": {
+        "text": "Extract real business value from social media. Ensuring the best return <br> on investment for your bespoke SEO campaign requirement."
+    },
+    "buttons": [
+        {
+            "text": "Get In Touch",
+            "link": "#"
+        },
+        {
+            "text": "More About Us",
+            "link": "#"
+        }
+    ]
+}

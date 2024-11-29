@@ -1,0 +1,30 @@
+{
+    "analysis": {
+        "image": {
+            "src": "analysis.png"
+        },
+        "title": "Analysis",
+        "heading": "Get Free SEO Analysis",
+        "description": "We’re experts in marketing with deep channel expertise",
+        "form": {
+            "fields": [
+                {
+                    "type": "text",
+                    "placeholder": "Your name"
+                },
+                {
+                    "type": "email",
+                    "placeholder": "Email"
+                },
+                {
+                    "type": "text",
+                    "placeholder": "Website"
+                }
+            ],
+            "submiteButon": {
+                "type": "submit",
+                "value": "Submit"
+            }
+        }
+    }
+}
